@@ -11,7 +11,7 @@ There is no third-party between the transferring.
 ### Set password
 Make a `.env` file and add the key `ftpraline_password` with a value of a password.
 The `.env` file should then look like this:
-```toml
+```
 ftpraline_password=mypasswordhere
 ```
 Where `mypasswordhere` is the password.
