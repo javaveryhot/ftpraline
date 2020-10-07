@@ -1,5 +1,5 @@
 # FTPraline
-A Python FTP script for transferring files over HTTPS with Flask.
+A Python FTP script for transferring files over HTTPS.
 Generally used for Repl.it.
 Useful for quickly transferring and copying files and directories to your server.
 
