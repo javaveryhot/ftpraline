@@ -3,7 +3,7 @@ A Python FTP script for transferring files over HTTPS.
 Generally used for Repl.it.
 Useful for quickly transferring and copying files and directories to your server.
 
-Include this in your Python project to support FTPraline and manage files.
+Include this in your Python project to support FTPraline and start managing files.
 
 There is no third-party between the transferring.
 
