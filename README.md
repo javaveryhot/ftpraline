@@ -31,7 +31,7 @@ These are the operations that anyone with the password can do:
 ### Commands
 The default prefix is `/ftp`, so a `help` command would look like `/ftphelp`.
 #### help
-Show a list of commands.
+Shows information about FTPraline and the installation.
 #### stop
 Stop the FTPraline server.
 **This will just stop the FTPraline server, your script will continue.**
