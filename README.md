@@ -16,6 +16,8 @@ ftpraline_password=mypasswordhere
 ```
 Where `mypasswordhere` is the password.
 This password can later be used with the FTPraline client software.
+### Set command prefix
+To change the console FTPraline prefix, add the key `ftpraline_prefix_override` with a value of the new prefix in the `.env` file.
 
 ## Operations
 The FTPraline script allows anyone with the password to make file system operations.
