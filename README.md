@@ -34,10 +34,10 @@ The default prefix is `/ftp`, so a `help` command would look like `/ftphelp`.
 Show a list of commands.
 #### stop
 Stop the FTPraline server.
-**This will just stop the FTPraline server, but your script will continue.**
+**This will just stop the FTPraline server, your script will continue.**
 #### init
 Restart the server.
-**This will just restart the FTPraline server, but your script will continue.**
+**This will just restart the FTPraline server, your script will continue.**
 #### info
 
 #### github
