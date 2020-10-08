@@ -36,7 +36,8 @@ Show a list of commands.
 Stop the FTPraline server.
 **This will just stop the FTPraline server, but your script will continue.**
 #### init
-
+Restart the server.
+**This will just restart the FTPraline server, but your script will continue.**
 #### info
 
 #### github
