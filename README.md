@@ -26,3 +26,17 @@ These are the operations that anyone with the password can do:
 * Create files and directories.
 * Edit files and directories (rename and change content).
 * Delete files and directories.
+
+## Use
+### Commands
+The default prefix is `/ftp`, so a `help` command would look like `/ftphelp`.
+#### help
+Show a list of commands.
+#### stop
+Stop the FTPraline server.
+Note: This will just stop the FTPraline server, but your script will continue.
+#### init
+
+#### info
+
+#### github
