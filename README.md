@@ -38,7 +38,5 @@ Stop the FTPraline server.
 #### restart
 Restart the server.
 **This will just restart the FTPraline server, your script will continue.**
-#### info
-Show information about the current runtime (e.g. valid connections).
 #### github
 Shows the GitHub repository.
